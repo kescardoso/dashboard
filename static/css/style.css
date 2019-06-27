@@ -1,5 +1,38 @@
 .number-box {
-    font-size: 64px;
+    font-size: 16px;
     text-align: center;
     line-height: normal;
+    margin-right: 16px;
+}
+
+.number-box .fa-gender {
+    font-size: 44px;
+    font-weight: 500;
+}
+
+.section {
+    border-botoom: 1px solid #e6e6e6;
+    padding: 30px 0;
+}
+
+.section-heading, #discipline-selector {
+    display: inline-block;
+    float: none;
+    margin:0;
+}
+
+.section-heading {
+    margin-bottom: 50px;
+}
+
+#discipline-selector {
+    margin-left: 15px;
+}
+
+.section-paragraph {
+    line-height: 1.2;
+}
+
+.custom-chart {
+    margin-bottom: 40px;
 }
